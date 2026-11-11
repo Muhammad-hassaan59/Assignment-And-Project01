@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Aiman",
+        "RollNo": 4,
+        "Student_marks": [
+            88,
+            99,
+            77,
+            66,
+            86,
+            78
+        ]
+    },
+    {
+        "Name": "Ali",
+        "RollNo": 1,
+        "Student_marks": [
+            90,
+            80,
+            70,
+            60,
+            77,
+            99
+        ]
+    }
+]
